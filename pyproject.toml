@@ -1,17 +1,11 @@
 [project]
 name = "denial-delay-classifier"
-
-version="0.1.0"
-
+version = "0.1.0"
 description = "Classifier for detecting climate denial and delay"
-
 readme = "README.md"
-
 requires-python = ">=3.9"
-
-license = {file = "LICENSE"} # TODO: Add license file
-
-keywords = ["climate", "disinformation"] # TODO: Add keywords
+# license = {file = "LICENSE"} # TODO: Add license file
+keywords = ["climate", "disinformation"]
 
 authors = [
   { name = "William Kattrup", email = "william_kattrup@brown.edu"}
@@ -24,6 +18,7 @@ classifiers = [
 
 dependencies = [
   "pandas==2.2.2",
+  "openai==0.27.0" # Add the OpenAI dependency here
 ]
 
 [project.urls]
@@ -32,3 +27,7 @@ dependencies = [
 [build-system]
 requires = ["setuptools>=43.0.0", "setuptools_scm>=8", "wheel"]
 build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["RoBERTa", "data_labeled", "LLM_classifier", "data_unlabeled"]
