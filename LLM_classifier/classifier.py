@@ -7,8 +7,12 @@ class Classifier:
         self.client = APIClient()
         self.prompt_tuner = PromptTuner()
         
-    def classify(self, prompt):
-        response = self.client.get_response(self.prompt_tuner.zero_shot_inststructions, prompt)
+    def classify(self, prompt, few_shot=True):
+        response = ""
+        if not few_shot:
+            response = self.client.get_response(self.prompt_tuner.zero_shot_inststructions(), prompt)
+        else:
+            response = self.client.get_response(self.prompt_tuner.get_few_shot_instructions(), prompt)
         return response
         
 classifier = Classifier()
@@ -29,7 +33,7 @@ for counter, (_, row) in enumerate(congress_validate.iterrows()):
     try:
         text = row["text"]
         human_label = row["label"]
-        llm_label = int(classifier.classify(text))
+        llm_label = int(classifier.classify(text,few_shot=True))
     
     except Exception as e:
         print("ERROR: ", e)
