@@ -12,4 +12,4 @@ class Classifier:
         
 classifier = Classifier()
 
-print(classifier.classify(prompt='There hasnt been any sea level rise in the San Francisco Bay for at least 70 years.'))
+print(classifier.classify(prompt="""Climate Sciencists are biased."""))

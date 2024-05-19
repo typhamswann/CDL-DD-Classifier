@@ -15,7 +15,7 @@ class APIClient():
             temperature = self.temperature
         if not max_tokens:
             max_tokens = self.max_tokens
-        print(os.getenv("OPENAI_API_KEY"))
+
         client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
         
         messages = instructions + [{'role': 'user', 'content': prompt}]
