@@ -15,11 +15,13 @@ class DataPrepper:
             return 2
         elif label.startswith("4"):
             return 1
-        else: #category 5
+        elif label.startswith("5"):
             if label == "5_3_2" or label == "5_2_5" or label.startswith("5_1"):
                 return 2
             else:
                 return 1
+        else: #Category 0. No claim.
+            return 0
             
     def mode_count(self, row):
         labels = [row['coder_0'], row['coder_1'], row['coder_2']]
@@ -116,7 +118,7 @@ validation_set = congress_clean[:split_index].reset_index()
 test_set = congress_clean[split_index:].reset_index()
 
 validation_set.to_csv("data_labeled/congress/validation.csv")
-test_set.to_csv("data_labeled/congress/test_set.csv")
+test_set.to_csv("data_labeled/congress/test.csv")
 
 
 
