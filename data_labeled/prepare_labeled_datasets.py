@@ -121,6 +121,32 @@ validation_set.to_csv("data_labeled/congress/validation.csv")
 test_set.to_csv("data_labeled/congress/test.csv")
 
 
+#Prepare think tank dataset
+tt_df = pd.read_csv("data_labeled/CARDS2_multisource_multilabel_data_final.csv")
+tt_df = tt_df[tt_df["corpus"]=="cards_single"]
 
+#Transform each label to denial/delay/nothing
+tt_df["labels_final"] = tt_df["labels_final"].apply(lambda x: ast.literal_eval(x))
+tt_df["labels_final"] = tt_df["labels_final"].apply(lambda x: [data_prepper.map_label(label) for label in x][0])
+tt_df = tt_df[["text", "labels_final"]].rename(columns={"labels_final":"label"})
+
+# Create validation and test sets 
+tt_df = tt_df.sample(frac=1, random_state=42).reset_index(drop=True) #shuffle.
+split_index = len(tt_df) // 2  # Find the midpoint of the DataFrame
+
+# 
+validation_set = tt_df[:split_index].reset_index()
+test_set = tt_df[split_index:].reset_index()
+
+validation_set.to_csv("data_labeled/think_tank/validation.csv")
+test_set.to_csv("data_labeled/think_tank/test.csv")
+
+#Prepare originals cards validate
+tt_original_validation = pd.read_csv("data_labeled/original_cards/validation.csv")
+#Transform each label to denial/delay/nothing
+tt_original_validation["label"] = tt_original_validation["claim"].apply(lambda x: data_prepper.map_label(x))
+tt_original_validation = tt_original_validation[["text", "label"]]
+
+tt_original_validation.to_csv("data_labeled/think_tank/validation_original.csv")
 
 
