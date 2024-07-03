@@ -4,7 +4,7 @@ import os
 
 class APIClient():
     def __init__(self):
-        self.default_model = "gpt-3.5-turbo"
+        self.default_model = "gpt-4-turbo"
         self.temperature = 0
         self.max_tokens = 1500
 
@@ -30,7 +30,7 @@ class APIClient():
         else:
             result = 0.0
 
-        return result
+        return result, subclaim_list, valid_subclaims
 
     def get_initial_classifications(self, statement):
         client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
