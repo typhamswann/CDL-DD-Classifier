@@ -1,0 +1,1023 @@
+id,text,user_1,user_2,category_1,category_2,llm_label,intermediary_response,valid_subclaims
+653,"(By convention, a failed to falsify result should be accompanied by an estimate of the error, or statistical power. I havent seen these discussed in the climate blog wars, but I do intend to extend my spreadsheet to include these at some point. Reporting both and errors are important if people are to draw inferences about statistical results.)",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text does not directly make any claims about climate change skepticism or denial. It discusses the importance of reporting errors and statistical power in the context of debates on climate blogs, which is more about the methodology of statistical analysis rather than the content or conclusions of climate science itself.
+
+Therefore, based on the codebook provided, the appropriate category for this text is:
+
+```python
+[""0.0""]
+```",['0.0']
+139,"Environmental Defense Fund is a nonprofit, tax-exempt charitable organization under Section 501(c)(3) of the Internal Revenue Code. Donations are tax-deductible as allowed by law. Tax identification number 11-6107128.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text does not contain any claims related to climate skepticism or climate change. It merely provides information about the Environmental Defense Fund's legal and tax status. Therefore, it does not fit any of the categories listed in the codebook.
+
+Desired output format:
+```python
+[""0.0""]
+```",['0.0']
+570,"A book that raised hackles and experienced personal attacks from the environmentalists was Bjorn Lomborg?s The Skeptical Environmentalist. UN IPCC chief, Rajendra Pachauri, compared him to Hitler. It is typical of Pachauri?s lack of understanding and undiplomatic reactions, but he wasn?t alone. Almost everyone, including most skeptics, misunderstood what Lomborg was saying, especially about climate. People on both sides of the climate issue were fooled by Lomborg?s use of ?skeptic? in his title. Too many people designated climate skeptics by the warming alarmists and those questioning extreme environmentalism were desperate for a public relations victory.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,2,2,0,"The provided text does not directly align with any specific claims listed in the codebook regarding climate change skepticism. It primarily discusses the reactions and misunderstandings surrounding Bjorn Lomborg's book, ""The Skeptical Environmentalist,"" without making explicit claims about climate change itself. Therefore, the appropriate category to assign is:
+
+```python
+[""0.0""]
+```",['0.0']
+302,EARTHS ENERGY IMBALANCE (ABSOLUTE) IN CMIP5 MODELS,ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text ""EARTHS ENERGY IMBALANCE (ABSOLUTE) IN CMIP5 MODELS"" does not explicitly make any climate skepticism claims from the codebook provided. It seems to be a neutral statement referring to a topic in climate science related to energy imbalance as modeled in CMIP5 simulations.
+
+Therefore, the appropriate category to assign is '0.0' as none of the specific skepticism claims listed in the codebook are directly mentioned or implied in the text.
+
+```python
+[""0.0""]
+```",['0.0']
+507,"This, unfortunately, is not atypical. Under gatekeeper Neal Lane , the Baker Institute has refused to allow fair, open debate about natural versus anthropogenic climate forces and has championed sky-is-falling government activism. For example, Lane/Baker:",ty_pham-swann@brown.edu,william_kattrup@brown.edu,2,2,0,"The provided text does not contain any specific claims from the codebook directly related to climate skepticism or denial. Therefore, the appropriate category to assign is:
+
+```python
+['0.0']
+```",['0.0']
+219,Economist Mag. slapped down for 'clearly biased and misleading' climate reporting,ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text, ""Economist Mag. slapped down for 'clearly biased and misleading' climate reporting,"" suggests criticism of the publication's approach to climate reporting but does not specify the nature of the bias or misleading information. Without specific details on the content of the reporting, it's challenging to directly link this statement to any specific climate skepticism claim listed in the codebook.
+
+Therefore, the appropriate category to assign based on the information available is:
+
+```python
+['0.0']
+```",['0.0']
+612,"But Hubbert, who died in 1989,did not live to see the ??? shale revolution .??During the past decade, advances in directional drilling and hydraulic fracturing have made it economical to extract oil from the pores of rock. Although U.S. petroleum production is still lower than it was at its peak in 1970,it has increased every year since 2008 with no end in sight.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,1,0,"The provided text discusses the advancements in oil extraction technologies and mentions an increase in U.S. petroleum production since 2008. It does not directly address any climate change skepticism or denial claims listed in the codebook. Therefore, the appropriate category for this text is:
+
+```python
+['0.0']
+```",['0.0']
+647,"Dr. Alpert is a Senior Scientist in the Office of the Chief Scientist. She leads an initiative to characterize and address chokepoints in realizing the potential of climate mitigation technologies. She also works closely with the Methane, Climate, and International Cooperation work streams, leveraging international scientific climate assessments and institutions to support climate change mitigation.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text describes Dr. Alpert's role in leading initiatives to address chokepoints in climate mitigation technologies and her involvement with various climate-related work streams. There is no indication of climate skepticism or denial in the text. Therefore, the appropriate category to assign is:
+
+```python
+['0.0']
+```",['0.0']
+253,"In his comment, Brian Cox wrote lots of wrong things about locality in quantum mechanics and the Pauli principle but he also mentioned the lunar story:",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"Based on the provided text and the codebook, there is no mention or allusion to climate skepticism or any related claims in the text. Therefore, the appropriate category to assign is:
+
+```python
+['0.0']
+```",['0.0']
+217,Highest Court in DC Allows Second Amendment Challenges to Long-Ago Convictions for Violating D.C. Handgun Ban:,ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text does not contain any information or claims related to climate change or climate skepticism. Therefore, it does not fit any of the categories listed in the codebook.
+
+Output: ['0.0']",['0.0']
+19,"Another cause could be low solar activity, Mr Fisher said.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,2,2,"The provided text ""Another cause could be low solar activity, Mr Fisher said."" suggests that a natural phenomenon, specifically low solar activity, could be a cause for a climate-related event or condition. This aligns with the claim that attributes climate change or its effects to natural cycles rather than human influence.
+
+Based on the codebook, the most relevant category for this statement is:
+- 2.1 - GHGs are not causing global warming - it’s natural cycles
+
+Therefore, the appropriate category to assign is [""2.1""].",['2.1']
+590,"The FCC issues a new order allowing greater competition between cable, broadband and other video services.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text ""The FCC issues a new order allowing greater competition between cable, broadband and other video services."" does not contain any information or claims related to climate change or climate skepticism. Therefore, it does not fit any of the categories listed in the codebook.
+
+The appropriate category assignment for this text is:
+
+```python
+[""0.0""]
+```",['0.0']
+291,"HAYDEN: You should be nice to Moose, mister. He doesnt take disagreement well.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"Based on the provided text ""Let's think step by step,"" there is no direct or indirect reference to climate change skepticism or any related claims listed in the codebook. The statement appears to be a general comment without any specific context or content related to climate change skepticism.
+
+Therefore, the appropriate category to assign is:
+
+```python
+[""0.0""]
+```",['0.0']
+454,The Courier-Mail Monday 6 May 1940,ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text ""A) Let's think step by step"" does not contain any specific claim or statement related to climate change skepticism or any other topic mentioned in the codebook. Therefore, it does not fit into any of the categories listed.
+
+Output: `['0.0']`",['0.0']
+409,"This year we’re mounting our first significant presence at the Abu Dhabi International Petroleum Exhibition and Conference (ADIPEC), possibly the largest professional gathering of the global oil and gas sector.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text does not contain any explicit or implicit climate skepticism claims as outlined in the codebook. It merely states the participation in a professional gathering of the global oil and gas sector, without making any assertions about climate change, its impacts, or related policies.
+
+Therefore, the appropriate category to assign is '0.0'.
+
+```python
+[""0.0""]
+```",['0.0']
+588,"According to Bruce Berman of Save the Harbor Save the Bay, ""Everything you see there was on the streets when the snows hit. None of it went into Boston Harbor, which is a terrific thing."" The city of Boston also has a twitter contest on how long the snow will remain before it all melts. Enter using the hashtag #BosMeltNow.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text does not explicitly or implicitly contain any climate skepticism claims as outlined in the codebook. It merely discusses the management of snow in Boston and a related social media contest. Therefore, it does not fit any of the categories listed in the codebook.
+
+The appropriate category assignment for this text is:
+```python
+[""0.0""]
+```",['0.0']
+346,"The Board voted 6-2 in favor of amending the standards to, as the Charleston Daily Mail reports, ""allow students to use scientific models to form their own conclusions on the debated topic.""",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text does not contain any specific climate skepticism claims from the codebook. It mentions allowing students to use scientific models to form their own conclusions on a debated topic, but it does not explicitly endorse any skeptical views about climate change. Therefore, the appropriate category to assign is:
+
+```python
+[""0.0""]
+```",['0.0']
+153,"Of course, this war on coal comes from the same administration that put the ""crucify them"" Administrator Al Armendariz in charge of the biggest oil and gas producing region of the country. In fact, EPA's crucifixion philosophy is so obvious now that even the left leaning Washington Post said that the Obama EPA is ""earning a reputation for abuse."" But I think Kim Strassel of the Wall Street Journal put it best when she said that Armendariz was ""a perfect general for Mr. Obama's war against natural gas"" and ""on the front lines"" of President Obama's battle to end fossil fuels and affordable energy.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,1,2,0,"The provided text does not directly address any specific climate change skepticism claims listed in the codebook. It focuses on criticizing the Obama administration's environmental policies, particularly targeting the coal and natural gas industries, and mentions perceived abuses by the EPA. However, it does not make specific claims about the science of climate change, the effects of greenhouse gases, or the impacts of climate change.
+
+Therefore, the appropriate category to assign based on the codebook is '0.0', indicating that none of the listed categories fit the content of the paragraph.
+
+```python
+[""0.0""]
+```",['0.0']
+554,"Our ability to forecast future system dynamics is severely constrained unless we can account for spatial nonlinearities, threshold behavior, and cascading effects . Even then, skillful predictions may not be possible .although we can identify vulnerabilities of systems to thresholds. Research will need to adopt approaches that cross traditional disciplinary boundaries to address system dynamics. Collaborative efforts among ecosystem ecologists and atmospheric scientists have made considerable progress in explaining broad-scale patterns and dynamics in the Earth System ., and human behaviors are increasingly being recognized by ecologists as integral to explaining system dynamics..More intensive cross-disciplinary studies that identify the pervasive role of cross-scale interactions are essential to understanding and forecasting changes in the various components of the Earth System. Our framework represents an initial step in seeking generalities among disciplines.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,2,0,"The provided text discusses the challenges and complexities in forecasting changes in the Earth System, emphasizing the need for interdisciplinary research and collaboration among scientists. It does not make any direct claims or express skepticism about climate change, nor does it fit any of the specific skeptical claims listed in the codebook.
+
+Therefore, the appropriate category for this text is:
+```python
+['0.0']
+```",['0.0']
+99,"There is a large divergence prior to 1900, but for the twentieth century the warming trend is not excessively increased. Further, the warming trend from around 1900 is about half of that in the GISTEMP Southern Hemisphere or global anomalies. Looked in this way Mearns would appear to have a point. But there has been considerable downward adjustment of the early twentieth century warming, so Homewoods claim of cooling the past is also substantiated. This might be the more important aspect, as the adjusted data makes the warming since the mid-1970s appear unusual.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,2,2,2,"The provided text discusses the divergence in temperature data before 1900 and mentions adjustments to early twentieth-century warming data, suggesting that these adjustments make recent warming appear more unusual. This could be interpreted as questioning the reliability of temperature data or proxies used in climate science.
+
+Based on the codebook, the most relevant category appears to be:
+- **5.1 Science is unreliable** -- This category includes subclaims about the unreliability of data or proxies, which aligns with the text's mention of adjustments to historical temperature data.
+
+Therefore, the appropriate category for this text is:
+```python
+[""5.1""]
+```",['5.1']
+70,"When looking at the temperature trends , it is clear that global warming has actually been missing for the last 15 years. This has definitely been the case of the continental U.S. as the graph on the left depicts.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,2,2,2,"The provided text states that ""global warming has actually been missing for the last 15 years,"" which aligns with the claim of a ""hiatus in warming."" Therefore, the appropriate category from the codebook for this statement is:
+
+- 1.4 - Hiatus in warming
+
+Thus, the output should be:
+```python
+[""1.4""]
+```",['1.4']
+76,"[T]he DEIS appears to lack certain critical information about the proposed project and mitigation, and there may be aspects of the environmental modeling and impact analysis which would benefit from being corrected, strengthened, or revised. Because of this, the DEIS likely underestimates impacts and risks to groundwater and surface water flows, water quality, wetlands, aquatic resources, and air quality from the Pebble Project. Inclusion of the additional information and analyses we have identified, or further explanation in the EIS of these issues, is essential to more fully evaluate and disclose the potential project impacts and identify practicable measures to mitigate those impacts.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text discusses the inadequacies and potential underestimations in an environmental impact statement (DEIS) regarding a project named the Pebble Project. It highlights concerns about the impacts on groundwater, surface water flows, water quality, wetlands, aquatic resources, and air quality. The text suggests that additional information and analysis are needed to fully evaluate and disclose the potential impacts and identify measures to mitigate those impacts.
+
+This paragraph does not contain any direct skepticism about climate change or its impacts. Instead, it focuses on the need for more comprehensive environmental assessments and better mitigation strategies for a specific project. Therefore, it does not fit any of the specific claims listed in the codebook related to climate change skepticism.
+
+The appropriate category for this text is:
+```python
+['0.0']
+```",['0.0']
+667,Aenean vitae accumsan tellus class aptent taciti sociosqu ad litora torquent per conubia nostra.,ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text ""A) Let's think step by step"" does not contain any specific claims or statements related to climate change skepticism as outlined in the codebook. It appears to be a general statement without any direct relevance to the categories listed.
+
+Therefore, the appropriate category to assign is:
+
+```python
+[""0.0""]
+```",['0.0']
+122,seems this expedition was more a BBC/Guardian/ABC CAGW exercise!,ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text does not contain any specific claims related to climate change skepticism as outlined in the codebook. It appears to be a general statement without any direct skepticism or denial of climate change science or impacts. Therefore, it does not fit any of the categories listed in the codebook.
+
+Output: `['0.0']`",['0.0']
+524,"I've had the advantage of seeing a lot of environmental groups up close during my tenure in government and in foundation work. Without question, NRDC was always among the most strategic and effective. This is an organization that has a great combination of the pragmatic and the hard-edged; it gets things done. In fact, I don't think there would have been any other environmental group I'd want to work for. NRDC is the definition of effective.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text praises the effectiveness and strategic approach of the NRDC (Natural Resources Defense Council) in environmental advocacy and does not contain any explicit or implicit climate change skepticism or denial. Therefore, it does not fit any of the categories listed in the codebook that relate to climate skepticism.
+
+The appropriate category for this text is:
+
+```python
+[""0.0""]
+```",['0.0']
+331,###,ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"Based on the provided text, there is no specific claim related to climate skepticism or any other topic mentioned in the codebook. Therefore, the appropriate category to assign is:
+
+```python
+['0.0']
+```",['0.0']
+611,"But wait a minute. Given the usual progress of science, won?t forecasting methods in the future always be better than in the past? What this suggests is that today the primary uses of, and interest in, such forecasts are political, not scientific ? that scientists as well as politicians are using forecasts for political and ideological purposes to influence public behavior here and now.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,2,2,0,"The provided text does not contain any specific claims related to climate skepticism as outlined in the codebook. Therefore, the appropriate category to assign is '0.0'. 
+
+Output: ['0.0']",['0.0']
+36,"Despite being treated like 17th century ""witches,"" many scientists are reexamining the evidence and reversing their positionseven calling their previous views: ""quite a big mistake.""",ty_pham-swann@brown.edu,william_kattrup@brown.edu,2,0,0,"The provided text does not contain any specific climate skepticism claims from the codebook. Therefore, the appropriate category to assign is '0.0'. 
+
+Output: ['0.0']",['0.0']
+202,"Between the offsets, allowance giveaways, generous assumptions about the cost and development of carbon sequestration for coal-fired electricity, and optimistic hopes for falling costs for other prospective energy sources, estimates of the cost of Waxman-Markey over the long run differ by more than an order of magnitude. Advocates of Waxman-Markey point to estimates from the EPA and the Congressional Budget Office (CBO) showing average cost to households of less than $100 per year (in 2008 dollars) by 2020, down from a previous estimate of about $175 per yearroughly equal to buying one extra postage stamp a day. On the other end of the scale, the Heritage Foundation estimates the cost will be more than $1,800 per household (again in constant 2008 dollars) by 2020 and will rise sharply in the years after 2020 when the cap begins to be lowered and the allowances begin to be auctioned rather than given away.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,1,1,"The provided text discusses the economic impacts and varying cost estimates associated with the Waxman-Markey bill, which is related to climate policy. It contrasts different estimates from various organizations about the potential costs to households due to the implementation of this policy.
+
+The text does not directly express skepticism about the science of climate change itself but rather discusses the economic implications and the effectiveness of a specific climate policy. Therefore, the most relevant category from the codebook would be:
+
+- **4.1 - Climate policies are harmful**
+
+This category is chosen because the text discusses the potential high costs and economic burdens of the climate policy, which can be interpreted as an argument that the policy might be harmful economically.
+
+```python
+[""4.1""]
+```",['4.1']
+309,"On a recent visit to Utah, Professor Hajo Eicken, one of the leading experts in the study of Arctic ice melt, explained some of the findings of his research.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text does not contain any specific claims related to climate skepticism or denial. It merely mentions that Professor Hajo Eicken, an expert in Arctic ice melt, shared findings from his research during a visit to Utah. Without additional context or details on what those findings were, it's impossible to categorize the text under any specific claim of climate skepticism.
+
+Therefore, the appropriate category for this text is:
+
+```python
+[""0.0""]
+```",['0.0']
+298,"Long-term monitoring allows VVCR and our partners to track changes in the size, location and even reproductive success of these bird populations—information that is critical for guiding management actions.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text does not contain any explicit or implicit claims related to climate skepticism or denial. It simply discusses the importance of long-term monitoring for bird populations to guide management actions. Therefore, it does not fit any of the categories listed in the codebook.
+
+Desired output format:
+```python
+[""0.0""]
+```",['0.0']
+185,"No time to blog right now, check this out at WUWT. It looks like the DOE didnt get the exhaustive review from the AP. All documents must be preserved.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text does not contain any explicit climate skepticism claims based on the codebook provided. It mentions a reference to a blog and a lack of exhaustive review by the DOE, but does not make any specific claims about climate change, its impacts, policies, or the science behind it. Therefore, the appropriate category to assign is:
+
+```python
+['0.0']
+```",['0.0']
+591,"Around the world, meanwhile, record low temperatures continue to make a mockery of global warming theories. While anecdotal, to be sure, Cairo, Egypt, just saw its first snowfall in more than 100 years . In the United States there have been thousands of new records for cold temperatures and snowfalls just in the month of December. In an extremely bizarre twist, some climate scientists have even started claiming that the freezing temperatures are actually more evidence of global warming.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,2,2,2,"The paragraph provided discusses the occurrence of record low temperatures and unusual snowfalls, using these events to question the validity of global warming theories. It specifically mentions that despite these cold weather events, some climate scientists argue that they are evidence of global warming. This narrative fits the skepticism category that suggests cold weather contradicts global warming, which is directly addressed by:
+
+<claim id=""1.3"">1.3 - Weather is cold</claim id=""1.3"">
+
+Thus, the appropriate category for this paragraph is:
+```python
+[""1.3""]
+```",['1.3']
+1,"CO2 Science Sheffer et al. conclude that ""the extraordinary flood of 2002 was not the largest in the basin"" of the Gardon River. And their findings and those of many others, both in France and elsewhere, suggest that the really huge European floods of the past few centuries occurred during colder rather than warmer times, which relationship is just the opposite of what the world's climate alarmists claim to be the case.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,2,2,2,"The paragraph provided discusses the occurrence of large floods in Europe during colder times rather than warmer times, which contradicts the claims made by climate alarmists. This suggests that the paragraph is challenging the idea that climate change (specifically warming) is leading to more extreme weather events like floods.
+
+Based on the codebook, the most relevant category for this paragraph is:
+- <claim id=""1.7"">1.7 - Extremes not increasing</claim>
+
+This claim fits because the paragraph is essentially arguing that extreme weather events (in this case, floods) are not increasing in severity or frequency with global warming, which is a common assertion by those skeptical of climate change impacts.
+
+Therefore, the output should be:
+```python
+[""1.7""]
+```",['1.7']
+671,Conservation status: Critically Endangered (IUCN),ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text ""Conservation status: Critically Endangered (IUCN)"" does not contain any explicit or implicit claims related to climate skepticism as outlined in the codebook. It merely states a fact about the conservation status of a species or entity without making any assertions about climate change or its impacts.
+
+Therefore, the appropriate category to assign is:
+
+```python
+[""0.0""]
+```",['0.0']
+269,"As Lee describes it, ""relative sea level has risen over the second half of the 20th century,"" and ""so have Holderness cliff recession rates, from around 1.2 m/year in the early 1950s to around 1.5 m/year by 2000."" However , as he continues, ""there has been no significant acceleration in the rate of global sea-level rise since 1990 and no rapid increase in the recession rate."" Thus, he states that ""predictions of 20-year recession distances made in the early 1990s that took account of the RSLR advice from MAFF (1991) are likely to have overestimated the risk to cliff-top property and the benefits of coast protection.""",ty_pham-swann@brown.edu,william_kattrup@brown.edu,2,2,2,"The provided text discusses the topic of sea level rise and cliff recession rates, specifically mentioning that there has been no significant acceleration in the rate of global sea-level rise since 1990 and suggesting that predictions of cliff recession may have overestimated the risks. This aligns with the claim that the impacts or risks of sea level rise may have been exaggerated.
+
+Based on the codebook, the most relevant category for this text is:
+
+- 1.6 - Sea level rise exaggerated
+
+Thus, the output should be:
+```python
+[""1.6""]
+```",['1.6']
+701,9. Mexico - Agreement to Promote Technical Cooperation in Environmental and Natural Resource Areas,ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text ""Mexico - Agreement to Promote Technical Cooperation in Environmental and Natural Resource Areas"" does not contain any explicit or implicit climate skepticism claims. It merely states an agreement related to environmental and natural resource cooperation, without making any assertions about climate change or its impacts.
+
+Therefore, the appropriate category to assign is '0.0', indicating that none of the skepticism categories in the codebook apply.
+
+```python
+return ['0.0']
+```",['0.0']
+550,This one is allegedly so bad that users were advised to disable Java on their browsers if they wanted to avoid it.,ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text does not contain any information or claims related to climate change or climate skepticism. Therefore, it does not fit any of the categories listed in the codebook.
+
+Output: ['0.0']",['0.0']
+216,Links to the Bartol Research Institute of the University of Delaware:,ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text ""A) Let's think step by step"" does not contain any specific claims related to climate change skepticism or any other topic mentioned in the codebook. Therefore, it does not fit any of the categories listed.
+
+Output: ['0.0']",['0.0']
+574,"Congress recognized that requiring all existing sources of emissions to install BACT or LAER equipment would be prohibitively expensive and disrupt supplies of energy and manufactured products. Moreover, retrofitting existing plants is often more expensive than incorporating BACT or LAER in new plants. For these reasons, Congress did not expect NSR to carry the huge burden of protecting the nation's air quality by itself. Sources not covered by the NSR program would still be subject to controls under other air quality protection programs. As EPA says:",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text does not contain any direct skepticism about climate change or its impacts. Instead, it discusses the economic and practical considerations of implementing certain air quality control measures in existing versus new plants. Therefore, it does not fit any of the specific skepticism claims listed in the codebook.
+
+The appropriate category for this text is:
+
+```python
+[""0.0""]
+```",['0.0']
+561,"While the EU and its member nations continued to play an irresponsible role at Bali, I think it is fair to say that the delegations representing United States, Canada, and Japan made positive and constructive contributions to the negotiations. Together, they can be seen to be trying to get the world off its Kyoto fixation and to begin looking for alternative policies that might address the potential challenges of global warming in ways that will not consign hundreds of millions of people in poor countries to perpetual energy poverty.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,1,1,1,"The provided text discusses the roles of different countries in climate negotiations, particularly criticizing the EU and praising the United States, Canada, and Japan for their contributions. It mentions a shift from a ""Kyoto fixation"" to exploring alternative policies that might address global warming without causing ""energy poverty"" in poor countries. This suggests skepticism about the effectiveness of current climate policies, particularly those established by the Kyoto Protocol.
+
+Based on the codebook, the most relevant category for this text is:
+- **4.1 - Climate policies are harmful**: This claim fits because the text implies that adhering strictly to the Kyoto Protocol could harm poor countries by keeping them in ""perpetual energy poverty.""
+
+Therefore, the appropriate category to assign is:
+```python
+[""4.1""]
+```",['4.1']
+227,3. Roofing fumes: Companies want no restrictions,ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text ""Roofing fumes: Companies want no restrictions"" does not directly make any claims related to climate change skepticism as outlined in the codebook. It seems to be more about business or regulatory preferences rather than climate change impacts, causes, or policies. Therefore, it does not fit any of the specific skepticism claims listed in the codebook.
+
+Desired output format:
+```python
+[""0.0""]
+```",['0.0']
+681,"In recent years, BPA has become a three-letter household word. In response to growing concerns about a litany of adverse effects associated with exposure to this estrogen-like chemical – particularly in the very young – families across the country ditched their plastic baby bottles, major chain stores banished BPA-based plastics from their shelves, and more than a dozen states imposed new limits on the once obscure compound.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text discusses concerns about the chemical BPA and its effects on health, particularly in young children, leading to its removal from products and the imposition of new regulations. This text does not contain any direct or indirect references to climate change or climate skepticism. Therefore, it does not fit any of the categories listed in the codebook related to climate change skepticism.
+
+The appropriate category for this text is '0.0', indicating that none of the specified claims about climate change skepticism apply.
+
+```python
+[""0.0""]
+```",['0.0']
+190,"Then there was PachauriGate , showing that the man in charge of the IPCC was chairman of boards of companies that profit handsomely as the scare-factor is ramped up.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,1,2,1,"The provided text suggests skepticism about the integrity of climate science leadership, specifically pointing to a conflict of interest involving the chairman of the IPCC. This aligns with the notion of a conspiracy within climate science or policy.
+
+Based on the codebook, the most fitting category for this claim is:
+- 5.4 Climate policy is conspiracy
+
+Thus, the appropriate category to assign is [""5.4""].",['5.4']
+541,"Unfortunately, what will likely emerge a few months into the Clinton presidency is a deep desire by Republicans to recapture the party mojo by once again prevailing in the forthcoming 2018 midterm elections by using the old scorched-earth strategies. Following the road maps of 2010 and 2014, party leaders will want to demonize the president, delegitimize Washington and the policy process, and block any meaningful policy action that could lead to a Clinton signing ceremony, feed on the anger at the grassroots.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text discusses political strategies and does not contain any direct references or allusions to climate change skepticism or related claims. Therefore, it does not fit any of the categories listed in the codebook.
+
+The appropriate category assignment for this text is:
+```python
+['0.0']
+```",['0.0']
+464,"The Ministry of Ecology and Environment improved the institutional framework of China’s long-suspended voluntary carbon market by releasing several top-level documents and establishing registration and trading institutions. Besides, China also made progress in developing carbon certification and footprint systems.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text discusses the improvements made by the Ministry of Ecology and Environment in China regarding the voluntary carbon market, including the release of top-level documents and the establishment of registration and trading institutions. Additionally, it mentions progress in developing carbon certification and footprint systems.
+
+This text does not contain any explicit or implicit climate skepticism. It does not question the science of climate change, nor does it criticize climate policies or their effectiveness. Instead, it describes actions taken to manage carbon emissions, which aligns with proactive climate action.
+
+Therefore, based on the codebook provided, none of the categories of climate skepticism apply to this text.
+
+Desired output format:
+```python
+['0.0']
+```",['0.0']
+186,Contact us at 337-342-2475 to verify hours or to learn more about volunteer opportunities.,ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text does not contain any information or claims related to climate change or climate skepticism. Therefore, it does not fit any of the categories listed in the codebook.
+
+Output: ['0.0']",['0.0']
+194,C-O C/century <m>,ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"Based on the provided text ""A) Let's think step by step"", there is no specific claim related to climate skepticism or any mention of climate change issues. Therefore, it does not fit any of the categories listed in the codebook.
+
+The appropriate category assignment for this text is:
+
+```python
+[""0.0""]
+```",['0.0']
+53,"“The Clean Power Plan will reduce dangerous carbon pollution while creating good jobs, boost the economy and protect public health right here, right now in Illinois. Senator Kirk's vote today keeps those benefits on the table for Illinoisans now and in the future. I hope that today's vote forecasts things to come for Senator Kirk.”",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text does not contain any climate skepticism. Instead, it supports the implementation of the Clean Power Plan, highlighting its benefits such as reducing carbon pollution, creating jobs, boosting the economy, and protecting public health in Illinois. Therefore, it does not fit any of the skepticism categories listed in the codebook.
+
+The appropriate category for this text is '0.0'. 
+
+Output: ['0.0']",['0.0']
+476,"The National Journal states: Republicans ""want nothing less than to send money to poor countries to fight climate change.""",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,1,"The provided text does not directly express skepticism about climate change itself but rather skepticism about the financial support for climate change mitigation in poorer countries. This can be categorized under skepticism about climate policies, particularly focusing on the effectiveness or necessity of financial aid for climate change.
+
+From the codebook, the most relevant category appears to be:
+- **4.3 Mitigation policies are unnecessarily or secondary**
+
+Thus, the appropriate category for the given text is:
+```python
+[""4.3""]
+```",['4.3']
+296,"Chairman Markey and Members of the Committee, thank you for inviting me to testify today on the important topic of the outcomes of the global warming talks in Bali last week. My name is Myron Ebell. I have served as director of energy and global warming policy at the Competitive Enterprise Institute (CEI) since 1999. CEI is a non-profit, non-partisan public policy institute that concentrates on regulatory issues from a free-market perspective. CEI does not accept government funding. CEI is an NGO accredited to the United Nations Framework Convention on Climate Change, and CEI's President, Fred Smith, attended the 1992 Earth Summit in Rio de Janeiro. CEI has sent NGO participants to many of the succeeding Conferences of the Parties, including COP-3 in Kyoto in 1997. I have been an observer of the Kyoto process from the beginning, and, although I did not attend this year's COP in Bali, I have attended several previous COPs since joining CEI.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text does not explicitly make any climate skepticism claims from the codebook. It primarily introduces the speaker, Myron Ebell, and his affiliations, along with a brief history of his involvement in climate change conferences. There are no direct statements or implications about climate change skepticism or denial in the text provided.
+
+Therefore, the appropriate category to assign is:
+
+```python
+['0.0']
+```",['0.0']
+209,"While the approach in todays post doesnt appear conceptual, statistical algorithms, including linear regression, typically solve inverse problems. The spirit of todays post is approaching Deflategate as an inverse problem. In doing so, I am aware (as Carrick has forcefully observed) that the underlying physical conditions were poorly defined, but people still need to make decisions using the available information as best they can. I think that the approach in todays post providesa much more plausible and satisfying explanation of the variation in Patriot pressures than those presented by either Exponent or Snyder or, for that matter, my own previous commentary.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text does not contain any direct or indirect references to climate change skepticism or related claims. It discusses the use of statistical algorithms in solving inverse problems, specifically in the context of ""Deflategate,"" which is unrelated to climate change. Therefore, none of the categories in the codebook apply to this text.
+
+The appropriate category assignment for this text is:
+
+```python
+[""0.0""]
+```",['0.0']
+486,(1) Negative consequences of EPA's interpretation of the RMR&R; exclusion,ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text ""Let's think step by step"" does not contain any specific claims related to climate change skepticism or any other topic mentioned in the codebook. It appears to be a general statement without any direct relevance to the categories listed.
+
+Therefore, the appropriate category to assign is:
+
+```python
+['0.0']
+```",['0.0']
+293,"The press and global warming enthusiasts have been hyping the loss of Arctic sea ice, but the models simulate it so poorly that the authors concluded that natural variability causes the bulk of the ice loss.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,2,2,2,"The provided text states: ""The press and global warming enthusiasts have been hyping the loss of Arctic sea ice, but the models simulate it so poorly that the authors concluded that natural variability causes the bulk of the ice loss.""
+
+This statement suggests skepticism about the accuracy of climate models and implies that natural variability, rather than human-induced climate change, is the main cause of Arctic sea ice loss. This aligns with the claim:
+
+- 5.1 Science is unreliable -- Models are unreliable
+
+Therefore, the appropriate category for this text is:
+```python
+[""5.1""]
+```",['5.1']
+271,H/t to Pat for the correction of George Pells status: current Archbishop it is.,ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"Based on the provided text and the codebook, the text ""H/t to Pat for the correction of George Pells status: current Archbishop it is."" does not contain any claims related to climate change skepticism or any other topics listed in the codebook. Therefore, the appropriate category to assign is:
+
+```python
+[""0.0""]
+```",['0.0']
+407,"The Paris accord stipulates that developed nations must reduce their emissions, regardless of impacts on economies, employment, or families. This means they must de-carbonize, de-industrialize and de-develop while they give trillions of dollars in cash and free technology to developing countries like Brazil, China, India, and Indonesia, for climate ""reparation"" and ""mitigation.""",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,1,1,"The provided text criticizes the Paris accord by stating that developed nations are required to reduce emissions at the expense of their economies, employment, and families, and must also provide financial and technological support to developing countries for climate ""reparation"" and ""mitigation."" This narrative suggests that climate policies, specifically international agreements like the Paris accord, are harmful to developed nations.
+
+Based on the codebook, the most fitting category for this claim is:
+- <claim id=""4.1"">4.1 - Climate policies are harmful</claim id=""4.1"">
+
+Therefore, the output should be:
+```python
+[""4.1""]
+```",['4.1']
+461,"In a blog post a few weeks ago, Ms. Cullen scolded a fellow meteorologist, who declined to lecture viewers about global warming, noting how the issue had been ""politicized"" and that, given the cyclical nature of weather patterns, he was unsure what ""generalizations"" could be inferred from the warming trend of recent times.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,2,2,2,"The paragraph describes a situation where a meteorologist is hesitant to discuss global warming due to its politicization and the cyclical nature of weather patterns, expressing uncertainty about the conclusions that can be drawn from recent warming trends. This aligns with the skepticism category that attributes global warming to natural cycles rather than human influence.
+
+Based on the codebook, the relevant claim is:
+- <claim id=""2.1"">2.1 - GHGs are not causing global warming - it’s natural cycles</claim id=""2.1"">
+
+Therefore, the appropriate category for this paragraph is:
+```python
+[""2.1""]
+```",['2.1']
+666,"A similar theme is part of an As You Sow shareholder resolution filed with chemical giant Dupont in order to cast aspersions on biotechnology. Pretending as if biotechnology is some unregulated and haphazard Frankenstein-making process rather than the heavily regulated activity it actually is, As You Sow seeks to be come a new biotech regulator by demanding special biotech safety reports and assurances.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text does not directly address any of the specific climate change skepticism claims listed in the codebook. It discusses the regulation of biotechnology and criticizes the actions of As You Sow in relation to biotechnology, not climate change or related policies. Therefore, it does not fit any of the categories provided in the codebook.
+
+The appropriate category assignment for this text is '0.0'.
+
+```python
+[""0.0""]
+```",['0.0']
+421,"And the ANE magazine brings some examples of planned reorganization at the VW Group whose very goal seems to be to make kodas less successful. If that were true, it would be really insane from any commercial viewpoint.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text does not contain any direct or indirect references to climate change skepticism or related claims. It discusses a potential business strategy within the VW Group, which is unrelated to the topics covered in the codebook. Therefore, the appropriate category to assign is:
+
+```python
+[""0.0""]
+```",['0.0']
+222,"The reasoning, apparently, is that the public on its own is too dumb to realize what a great thing CFLs are, given that their energy savings far outweigh their higher prices.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text does not directly align with any specific climate skepticism claims listed in the codebook. It discusses the perception of the public towards CFLs (compact fluorescent lamps) and their cost-effectiveness in terms of energy savings, without making any direct claims about climate change or climate policies. Therefore, the appropriate category to assign is:
+
+```python
+[""0.0""]
+```",['0.0']
+674,"Then this guy goes all geek-wonky and finds a page on Google put up 3 days prior to the event. A United Way page. One wonders if United Way creates a blank page from time to time and then filled them in if an event happens? An interesting date dis-connect, but the frame can be built prior to populating it. Then goes on into the wrong kid on the lap image.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text does not contain any direct or indirect references to climate change skepticism or related claims. It seems to discuss an unrelated topic involving a webpage and an image. Therefore, it does not fit any of the categories listed in the codebook.
+
+Output: ['0.0']",['0.0']
+414,"A few days ago, the Laurie Hawn campaign was alerted, via e-mail, by an Edmonton lawyer that: ""Lots of supporters are enumerated at their downtown office address instead of at their houses. One of them was bragging about how many times he could vote liberal (sic) based on the number of leases he had in her riding."" In reaction to this e-mail, the Laurie Hawn campaign acquired a City of Edmonton map which listed all buildings and their street addresses and began thoroughly checking the revised voters list. Despite checking less than half the polls, here are some irregularities that have been identified: Almost 100 apparently nonexistent addresses in Edmonton's downtown core - in some cases, the addresses listed fictional residences in between two genuine buildings",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"Based on the provided text and the codebook, the paragraph does not contain any claims related to climate change skepticism or denial. The text discusses potential voter irregularities in a political campaign, which is unrelated to the topics covered in the codebook.
+
+Therefore, the appropriate category to assign is '0.0'. 
+
+Output: ['0.0']",['0.0']
+137,"As vilification of Soon demonstrates, however, climate politics wont accommodate alternative views. With their motivating theory increasingly challenged by observation, proponents of extreme precaution have gone from name-callingdeniers, Neanderthalsto character assassination. Their tactics exude desperation and undermine their credibility.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,2,2,2,"The provided text does not directly claim any specific skepticism about climate change such as denying ice melt, global warming, or sea level rise. Instead, it discusses the political and social dynamics surrounding climate change debates, particularly focusing on how proponents of extreme precaution react to alternative views and criticisms.
+
+The text mentions:
+- Vilification and character assassination of those holding alternative views.
+- Desperation in tactics used by proponents of extreme precaution, which undermines their credibility.
+
+This content aligns with the claim:
+- **5.2 Movement is unreliable**: This claim suggests skepticism towards the reliability and motivations of the climate change movement, which is reflected in the text's discussion of the tactics used by climate change proponents.
+
+Therefore, the appropriate category for this text is:
+- **5.2** (Movement is unreliable)
+
+```python
+[""5.2""]
+```",['5.2']
+264,"The four researchers report that ""none of the plants grown under high levels of CO 2 for 90 days presented either significant differences in fresh weight and dry weight compared with controls, or macroscopic alteration of morphogenesis (number and length of nodes/internodes, branching, leaf area and chlorosis, etc.), at any of the sampling times."" However , they did find that ""in plants grown under elevated CO 2 , a relative increase in oil yield of 32, 34 and 32% was, respectively, recorded in the first, second and third sampling-time (July, August and September),"" and they observed a ""general depression of the oxidative stress under elevated CO 2 "" that led to a ""down-regulation of leaf reactive oxygen species-scavenging enzymes under elevated CO 2 ."" What it means",ty_pham-swann@brown.edu,william_kattrup@brown.edu,2,2,0,"The provided text does not contain any explicit climate skepticism or denial claims as outlined in the codebook. It discusses the effects of elevated CO2 levels on plant growth, oil yield, and oxidative stress, without making broader claims about climate change or its impacts. Therefore, it does not fit any of the specific skepticism categories listed in the codebook.
+
+The appropriate category for this text is:
+```python
+[""0.0""]
+```",['0.0']
+513,"To put it another way, the reason that polar bears in some areas easily survive an onshore fast of 4 months or more over the late summer/early fall is that they would get very little to eat (if anything) even if they stayed out on the ice. It??s the fat put on in spring/early summer (from gorging on baby seals) that carries them over the summer, no matter where they spend it.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,2,2,0,"The provided text discusses the survival strategy of polar bears during periods when they fast onshore, attributing their survival to the fat reserves accumulated from eating baby seals in the spring and early summer. This explanation focuses on the natural biological adaptations of polar bears rather than directly addressing or denying climate change impacts such as ice melting or changes in their habitat due to global warming.
+
+Reviewing the codebook, none of the claims directly match the content of the text as it neither denies nor undermines the science of climate change explicitly. It does not discuss the melting of ice, changes in climate patterns, or the effectiveness of climate policies. Instead, it explains a biological aspect of polar bear survival.
+
+Therefore, the appropriate category to assign based on the provided codebook is:
+```python
+['0.0']
+```",['0.0']
+259,"Under the Kyoto Protocol, for example, companies subject to climate regulations can meet their carbon ""cap"" by paying for emissions reduction projects in developing countries. According to the journal Nature, the U.N. certified $6 billions' worth of emissions ""savings"" for reductions in HFC-23, a potent greenhouse gas. Yet removing the HFC-23 cost $130 million. That's a lot of waste.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,1,1,1,"The paragraph provided discusses the economic inefficiencies of climate policies under the Kyoto Protocol, specifically highlighting the disparity between the cost of removing HFC-23 and the amount certified as emissions savings. This critique focuses on the financial aspects and effectiveness of climate policies rather than denying climate change or its impacts directly.
+
+Based on the codebook, the most relevant category for this paragraph is:
+- <claim id=""4.2"">4.2 - Climate policies are ineffective</claim id=""4.2"">
+
+Thus, the appropriate category to assign is:
+```python
+[""4.2""]
+```",['4.2']
+128,"new un sanctions resolution several months later. Indeed, the inconvenient fact for",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text ""new un sanctions resolution several months later. Indeed, the inconvenient fact for"" does not contain any specific claim related to climate change skepticism or denial. It appears to be an incomplete sentence and does not allude to any of the categories listed in the codebook.
+
+Therefore, the appropriate category to assign is:
+
+```python
+[""0.0""]
+```",['0.0']
+24,h/t The Register ??? the UK MET Office has published a report which suggests the pause in global temperatures might continue for many years to come. Or the pause might not continue. They??re not really sure.,ty_pham-swann@brown.edu,william_kattrup@brown.edu,2,2,2,"The provided text mentions a ""pause in global temperatures"" which might continue or might not, indicating uncertainty about ongoing global warming. This aligns with the claim:
+
+1.4 - Hiatus in warming
+
+Therefore, the appropriate category for this text is:
+```python
+[""1.4""]
+```",['1.4']
+656,"Climate change is a big issue these daysyou may have heard a thing or two about it in the news mediabut it is a confused and increasingly chaotic scene, with many moving parts. I believe the trajectory of the issue is changing in real time right now, but I do not want to get bogged down too far in the details and lose sight of the central point of this Hillsdale series, which is the ways in which the climate change issue highlights the constitutional defects of the modern administrative state.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,2,0,"The provided text does not explicitly make any climate skepticism claims listed in the codebook. It mentions the complexity and changing nature of the climate change issue and expresses a desire to focus on how it highlights constitutional defects of the modern administrative state, rather than delving into specific skeptical arguments about climate science or policy. Therefore, the appropriate category to assign is:
+
+```python
+[""0.0""]
+```",['0.0']
+426,"As Daniel Patrick Moynihan, an artist among social scientists, pointed out, social scientists didn't really know how to eliminate poverty or crime. Policies based on middle-class instincts often worked better than those of elite liberals.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text does not contain any direct or indirect references to climate change, climate skepticism, or related policies. It discusses the effectiveness of social policies on poverty and crime, comparing approaches by middle-class instincts versus elite liberals, without any mention of climate or environmental issues.
+
+Therefore, the appropriate category to assign based on the codebook is:
+
+```python
+['0.0']
+```",['0.0']
+415,Virgin Islands AG Withdraws DC Subpoena of CEI,ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text ""Virgin Islands AG Withdraws DC Subpoena of CEI"" does not contain any direct claims or statements related to climate change skepticism or denial. It merely states a legal or administrative action involving the Attorney General of the Virgin Islands and the Competitive Enterprise Institute (CEI). Without additional context indicating the nature of the subpoena or its relation to climate change skepticism, it is not possible to categorize this statement under any specific claim of climate skepticism as outlined in the codebook.
+
+Therefore, the appropriate category for this text is:
+
+```python
+['0.0']
+```",['0.0']
+566,EPA's recommendations are justified by the facts and ought to be implemented as quickly as possible.,ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text does not contain any climate skepticism or denial claims. It actually supports the implementation of EPA's recommendations based on facts. Therefore, it does not fit any of the categories listed in the codebook.
+
+Output: ['0.0']",['0.0']
+91,"We’ll send regular updates about developments in technology, science and the environment.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text does not contain any specific claims related to climate skepticism or denial. It simply mentions sending regular updates about developments in technology, science, and the environment. Therefore, it does not fit any of the categories listed in the codebook.
+
+The appropriate category for this text is '0.0'.
+
+Output: ['0.0']",['0.0']
+61,"Fast forward to late 2017, and Whelchel and the Conservancy are training 250 professionals to work with the Massachusetts communities participating in the program, known as the Municipal Vulnerability Preparedness (MVP) program.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text does not contain any climate skepticism or claims related to climate change skepticism as outlined in the codebook. It simply mentions a program aimed at preparing communities for vulnerabilities, which implies a proactive approach to dealing with climate impacts rather than denying them.
+
+Therefore, the appropriate category to assign is:
+
+```python
+[""0.0""]
+```",['0.0']
+25,"The timing of Chesapeake's Sierra Club funding is highly suspicious. From 2005-2007, Chesapeake Energy was the principal funder of an infamous anti-coal print ad campaign. The ads were all variations on a single theme: close-ups of coal-smeared faces next to the tagline ""Face It: Coal Is Filthy."" The most controversial of the ads depicted a young waifish girl with blue eyes. Chesapeake pulled the plug on the campaign in 2007, but only after Members of Congress from coal-heavy states objected to the gas industry's use of pseudo-public service announcements to try to win market share from the coal industry.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text discusses the funding of an anti-coal campaign by Chesapeake Energy and the controversy it stirred among members of Congress from coal-heavy states. The text does not directly address any of the specific climate skepticism claims listed in the codebook. It focuses on the competitive dynamics between the coal and gas industries rather than questioning the science or impacts of climate change.
+
+Therefore, the appropriate category for this text is:
+```python
+['0.0']
+```",['0.0']
+133,"In both cases, plants absorb CO 2 through stomata in their leaves and they need a very large amount of water to grow. A higher CO 2 concentration allows them to reduce the number of stomata and save water, if I simplify things a bit. So one may say that a higher CO 2 helps the plants to deal with the shortage of water.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,2,2,0,"The provided text does not contain any climate skepticism claims from the codebook. Therefore, the appropriate category to assign is:
+
+```python
+[""0.0""]
+```",['0.0']
+43,"A breakthrough came the following spring, when Tony Tyler, head of the International Air Transport Association, met with Mike and made it clear that the industry would support a robust market-based measure in ICAO.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"Based on the provided text and the codebook, the text does not contain any specific claims related to climate skepticism or climate change. Therefore, the appropriate category to assign is '0.0'.
+
+```python
+[""0.0""]
+```",['0.0']
+344,"Not all of Option 1 misses the mark. There is a general alignment with the Heavy-Duty Omnibus Rule on particulate matter standards and on warranty and useful life provisions (which cover the engine’s minimum allowed warranty and expected duration of utility for a certain number of years, miles and/or hours). Longer warranty periods make it less likely for owners to tamper with emissions controls and more likely to make the repairs they need sooner rather than later, ensuring that the emission reduction systems continue to work like they should while in operation.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"Based on the provided text, there is no indication of climate skepticism or denial. The paragraph discusses the alignment with the Heavy-Duty Omnibus Rule on particulate matter standards and warranty provisions, which are measures to ensure that emission reduction systems continue to function properly. It does not challenge or undermine the science of climate change or the effectiveness of climate policies.
+
+Therefore, the appropriate category to assign is:
+```python
+['0.0']
+```",['0.0']
+441,"U.S. and European Union envoys are seeking more clarity from the United Nations on a slowdown in global warming that climate skeptics have cited as a reason not to panic about environmental changes, leaked documents show.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,2,2,2,"It seems like you might be looking for guidance on how to categorize the provided text according to the codebook. Here's a step-by-step approach to help you analyze and categorize the text:
+
+1. **Read and Understand the Text**: Carefully read the text to grasp its main points and any underlying messages or claims about climate change.
+
+2. **Identify Key Phrases**: Look for key phrases or words in the text that hint at specific climate change claims or skepticism. For example, phrases like ""slowdown in global warming"" or ""reason not to panic"".
+
+3. **Refer to the Codebook**: Match these key phrases to the closest corresponding claims in the codebook. Each claim in the codebook represents a common argument or statement used by climate skeptics or in discussions about climate policies.
+
+4. **Assign Categories**: Based on the closest matches, assign the appropriate claim numbers from the codebook to the text. If the text mentions multiple claims, you may need to list several numbers.
+
+5. **Check for Accuracy**: Double-check to ensure that the categories you've assigned accurately reflect the claims made in the text. Adjust if necessary.
+
+6. **List the Categories**: Finally, compile the list of claim numbers that you've assigned to the text.
+
+For the text you provided:
+""U.S. and European Union envoys are seeking more clarity from the United Nations on a slowdown in global warming that climate skeptics have cited as a reason not to panic about environmental changes, leaked documents show.""
+
+The key phrase here is ""slowdown in global warming,"" which matches with the claim about a hiatus in warming. Therefore, the appropriate category from the codebook would be:
+
+```python
+[""1.4""]
+```
+
+This step-by-step approach ensures a thorough analysis and accurate categorization based on the provided codebook.",['1.4']
+581,"Washington, D.C., August 11, 2003In an attempt to discredit the Competitive Enterprise Institute's lawsuit against the White House over the Administration's failure to implement a sound-science law in regard to global warming reports, the state attorneys general of Maine and Connecticut have asked U.S. Attorney General John Ashcroft to investigate an alleged ""sweetheart suit"" relationship between the Bush administration's Council on Environmental Quality and CEI.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,2,1,"The provided text discusses a lawsuit involving the Competitive Enterprise Institute and the White House, focusing on the implementation of a ""sound-science law"" concerning global warming reports. It mentions a potential investigation into a ""sweetheart suit"" relationship, which suggests a possible conspiracy or collusion regarding climate policy.
+
+Based on the codebook, the most relevant category appears to be:
+- **5.4 Climate policy is conspiracy**
+
+Thus, the appropriate category for this text is:
+```python
+[""5.4""]
+```",['5.4']
+266,"Whitman defended her environmental record and the program. Spokesman Joe Martyak praised the program as a voluntary effort ""designed to achieve air quality benefits earlier and at a lower cost than conventional approaches .The most important thing is that, both as the governor as well as the administrator of EPA, she's sought creative ways to reduce the air pollution out there"" (Newark Star-Ledger, September 17, 2002).",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text does not contain any explicit or implicit climate skepticism. It discusses a voluntary program aimed at achieving air quality benefits, led by Whitman, who was praised for seeking creative ways to reduce air pollution. There is no mention or allusion to any of the skepticism claims listed in the codebook.
+
+Therefore, the appropriate category for this text is:
+
+```python
+[""0.0""]
+```",['0.0']
+292,"Cross-scale Interactions, Nonlinearities, and Forecasting Catastrophic Events",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text ""Cross-scale Interactions, Nonlinearities, and Forecasting Catastrophic Events"" does not explicitly make any climate skepticism claims based on the codebook provided. It seems to be a general statement about scientific topics that could relate to climate change but does not directly deny or undermine climate science or policies.
+
+Therefore, the appropriate category to assign is '0.0'. 
+
+Output: ['0.0']",['0.0']
+495,"To paraphrase Mario Cuomo's dictum about political campaigns, we debate foreign policy in poetry and",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text does not contain any specific claims related to climate change skepticism or any related topics from the codebook. Therefore, the appropriate category to assign is:
+
+```python
+['0.0']
+```",['0.0']
+687,"HAYDEN: Fine! If P, then Q! Q! Therefore P! Have it your way!",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"Based on the provided text ""HAYDEN: Fine! If P, then Q! Q! Therefore P! Have it your way!"" and the codebook, there is no direct or indirect mention of any climate skepticism claims. The text appears to be a logical argument or a statement in a debate but does not contain any specific content related to climate change or skepticism thereof.
+
+Therefore, the appropriate category to assign is '0.0' as none of the claims in the codebook are applicable to this text.
+
+```python
+[""0.0""]
+```",['0.0']
+207,"Here's what Jon Entine, visiting fellow at the American Enterprise Institute, has to say about the scientific consensus on GMOs:",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text does not contain any specific claims related to climate change skepticism. It mentions Jon Entine and his views on the scientific consensus on GMOs, which is unrelated to the categories listed in the codebook that focus on climate change skepticism.
+
+Therefore, the appropriate category to assign is:
+
+```python
+['0.0']
+```",['0.0']
+403,"In this piece she says: charged subatomic particles from outer space, or cosmic rays, might significantly impact the type and quantity of clouds covering the earth, providing a clue to one of the least-understood but most important questions about climate. Heavenly bodies might be driving long-term weather trends.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,2,2,2,"The provided text suggests that cosmic rays might significantly impact the type and quantity of clouds, hinting at a natural cause for climate phenomena. This aligns with the claim that greenhouse gases are not the primary cause of global warming, but rather natural cycles are. Therefore, the appropriate category from the codebook is:
+
+```python
+[""2.1""]
+```",['2.1']
+700,"It's no coincidence that the Paw Paw River watershed is also known as Michigan's ""Wine Country."" The temperate climate, fertile soil and nearby river create idyllic conditions not only for vineyards, but also for land rich in biodiversity.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text describes the favorable conditions of the Paw Paw River watershed for vineyards and biodiversity, highlighting the temperate climate and fertile soil. There is no mention or implication of climate change skepticism or denial. Therefore, it does not fit any of the categories listed in the codebook that relate to climate skepticism claims.
+
+The appropriate category for this text is:
+```python
+['0.0']
+```",['0.0']
+15,"Critics accuse GMO of being unhealthy, increasing chemical pollution, threatening other species, causing dangerous side effects, and harming the environment. But as plant molecular biologist Robert Goldberg of UCLA points out, ""In spite of hundreds of millions of genetic experiments involving every type of organism on earth, and people eating billions of meals without a problem, we've gone back to being ignorant.""",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text discusses criticisms of GMOs and a counterpoint by a plant molecular biologist, emphasizing the safety and extensive testing of GMOs. It does not directly address climate change or climate skepticism. Therefore, none of the claims in the codebook apply to this text.
+
+The appropriate category for this text is '0.0'.
+
+```python
+[""0.0""]
+```",['0.0']
+623,"Indeed, more recent studies confirm that the IPCC overestimated the level of greenhouse gas emissions humans are likely to create in the rest of this century, and may also overestimate overall population growth, economic growth, technological progress, and other factors that drive aggregate greenhouse gas emissions.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,2,2,0,"The provided text does not fit into any of the specific claims listed in the codebook. It discusses the potential overestimation of factors by the IPCC but does not directly align with any of the claims about climate change skepticism such as those denying the melting of ice, exaggerating sea level rise, or denying the effectiveness of climate policies.
+
+Therefore, the appropriate category to assign is '0.0'. 
+
+Output: ['0.0']",['0.0']
+648,"Police and courts to secure each citizens life, liberty and property from domestic thieves and bandits, and to adjudicate the disputes that might arise among men;",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text does not contain any information or claims related to climate change or climate skepticism. It discusses the role of police and courts in securing the life, liberty, and property of citizens and adjudicating disputes. Therefore, it does not fit any of the categories listed in the codebook.
+
+Output: ['0.0']",['0.0']
+98,"According to the radiative convective equilibrium concept, the equation for determining global average surface temperature of the planet is",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text does not contain any specific claims related to climate skepticism or denial. It merely mentions a scientific concept related to climate science without making any skeptical or denial assertions. Therefore, it does not fit any of the categories listed in the codebook.
+
+The appropriate category assignment for this text is:
+
+```python
+[""0.0""]
+```",['0.0']
+506,Gift & Estate Planning,ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"Based on the provided text ""Gift & Estate Planning,"" there is no mention or allusion to climate change skepticism or any related topics. Therefore, it does not fit any of the categories listed in the codebook.
+
+The appropriate category assignment for this text is '0.0'.
+
+```python
+[""0.0""]
+```",['0.0']
+105,"Meanwhile, about 30 of us gathered next to the Greenpeace truckapparently Greenpeace prefers motorized vehicles to bullock cartsfor a counterdemonstration to ""Celebrate Coal and Keep Energy Affordable!"" The Greenpeace truck had a big solar panel, but it was covered by at least three inches of snow, so the activists had to run a generator instead to power the truck's PA system.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,1,1,"The paragraph describes a scenario where activists from Greenpeace, despite advocating for renewable energy, had to use a generator because their solar panel was covered in snow and thus non-functional. This situation is used to highlight a perceived irony or ineffectiveness in relying solely on renewable energy sources like solar power, especially in conditions where they might not work as expected.
+
+This scenario aligns with the skepticism category:
+- **4.5 Climate-friendly alternatives won’t work (harmful or ineffective).**
+
+The text implies that renewable energy solutions (like solar panels) may not always be reliable or effective, which is a common argument used to criticize or question the shift away from fossil fuels and towards renewable energy sources.
+
+Therefore, the appropriate category for this paragraph is:
+- `4.5`
+
+Output: `['4.5']`",['4.5']
+500,"Precisely because the system of natural liberty excludes violence, theft, or fraud, the only way any individual can acquire from others what he desires is by applying his own knowledge, abilities, and resources in a manner that enables him to produce and offer to others what they desire, so they will give in trade what that first individual wants to obtain.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text does not contain any direct or indirect references to climate change, climate skepticism, or related topics. It discusses a concept related to individual interactions in a system of natural liberty, focusing on trade and personal abilities without any mention of environmental issues or policies.
+
+Therefore, the appropriate category to assign is:
+
+```python
+['0.0']
+```",['0.0']
+451,"Kjorven and the UN say they want ""expanded use of techniques that reduce soil erosion and run-off."" No-till farming is now being used on millions of hectares of vulnerable lands around the world, cutting soil erosion by up to 95 percent, and virtually eliminating runoff. But the system can't work without herbicideswhich the UN would discard.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,1,"The provided text discusses the use of no-till farming to reduce soil erosion and runoff, and mentions a dependency on herbicides for this system to work, which the UN would supposedly discard. This text does not directly express skepticism about climate change itself but criticizes the UN's stance on herbicides, which are necessary for no-till farming—a method that helps in combating soil degradation and indirectly supports climate change mitigation efforts.
+
+Reviewing the codebook, the closest relevant category appears to be:
+
+- **4.5 Climate-friendly alternatives won’t work (harmful or ineffective).**
+
+This category is chosen because the text implies that the UN's approach to discarding herbicides, which are essential for no-till farming, could render this climate-friendly alternative ineffective.
+
+Therefore, the output would be:
+```python
+[""4.5""]
+```",['4.5']
+598,"""I have been brooding about the cumulative void. First we lost Milton Friedman, who died in November 2006, then William F. Buckley, Jr., in February 2008, and then on September 18, Irving Kristol. The respective giants of the libertarian, conservative, and neoconservative Right, all gone within three years. . . . We're in a battle for America's soul at a pivotal moment. But the very truth of that statementwe are indeed in a battle for America's soulmakes it a good idea to stop and think about when the American Right was truly influential. It didn't start after right-wing talk shows got big. It started in the 1960s, as Friedman, Buckley, and Kristol were hitting their stride. . . . Don't tell me we have to put up with the Glenn Becks of the world to be successful. Within living memory, the Right was successful. The Right changed the country for the betterthrough good arguments made by fine men.""",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"Based on the provided text and the codebook, the paragraph does not contain any specific claims related to climate change skepticism or denial. The text primarily discusses the influence and legacy of key figures in the American Right political spectrum and does not address climate change directly or indirectly through any of the listed skeptical claims.
+
+Therefore, the appropriate category to assign is:
+
+```python
+['0.0']
+```",['0.0']
+402,"Carbon dioxide emissions from non-Organisation for Economic Co-operation and Development countriessuch as China and Indiaare projected to grow by 9 billion tons per year. The Partnership for a Better Energy Future reports: ""for every ton of CO2 reduced in 2030 as a result of EPA's rule, the rest of the world will have increased emissions by more than 16 tons."" Our reduction in 2030 would offset the equivalent of just 13.5 days of CO2 emissions from China. The CPP will become the definition of ""all pain and no gain."" Or, as economist Thomas Sowell calls it: ""replacing what worked with what sounded good.""",ty_pham-swann@brown.edu,william_kattrup@brown.edu,1,1,1,"The provided text does not contain any specific claims from the codebook directly related to climate skepticism in terms of denying climate change, its effects, or the science behind it. Instead, it discusses the perceived ineffectiveness of certain climate policies, particularly in the context of global emissions.
+
+The text argues that the reduction efforts by certain countries (implied to be more developed or Western countries) are negligible compared to the emissions increases from other countries (like China and India). It suggests that the efforts of these countries to reduce emissions will be offset by increases elsewhere, making these policies ineffective at a global scale.
+
+Based on the codebook, the most fitting category for this argument is:
+- **4.2 - Climate policies are ineffective**
+
+This claim is supported by the text's assertion that the efforts to reduce CO2 emissions in some countries will be vastly outweighed by increases in emissions from other countries, rendering the policies ineffective in terms of global impact.
+
+Therefore, the appropriate category to assign is:
+```python
+[""4.2""]
+```",['4.2']
+101,<4141> Minns/Tyndall Centre:,ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"Based on the provided text ""A) Let's think step by step"", there is no specific claim or statement related to climate change skepticism or any other topic mentioned in the codebook. Therefore, the appropriate category to assign is:
+
+```python
+['0.0']
+```",['0.0']
+178,"The northern hemisphere jet stream, a fast-moving high-altitude air current, circles the earth from west to east.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text does not contain any specific claims related to climate skepticism or denial. It merely describes the northern hemisphere jet stream as a fast-moving high-altitude air current that circles the earth from west to east. This statement is a factual description and does not challenge or support any climate change theories or data.
+
+Therefore, the appropriate category to assign is:
+
+```python
+[""0.0""]
+```",['0.0']
+384,"When the territorial integrity of one of its members is threatened by an attack, NATO cannot afford to lose. It would sacrifice its credibility as an alliance. . . . But in stabilization operations the existence of NATO is not threatened. Here NATO can afford to fail without losing its credibility as an alliance. . . . There are, thus, fundamental differences between collective defense credibility and stabilization credibility. To lump them together or to blur the distinction between the two, shows a lack of understanding for the very nature of such interventions. The consequences of getting stuck in hopeless operations as well as holding NATO's authority and standing hostage to fortune is doubly dangerous. The UN, the institution with the widest experience in post-conflict stabilization to date, has never made these operations a test for its credibility. NATO needs to do likewise.3",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text discusses the strategic considerations of NATO in the context of collective defense and stabilization operations. It does not contain any direct or indirect references to climate change or climate skepticism. Therefore, it does not fit any of the categories listed in the codebook related to climate change skepticism.
+
+The appropriate category assignment for this text is:
+
+```python
+[""0.0""]
+```",['0.0']
+465,"Together, the state’s proposed rules only reduce 21% of methane emissions and 19% of VOCs, while comprehensive rules could reduce 56% of methane emissions and 58% of VOCs.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text does not contain any explicit or implicit climate skepticism. It merely states the effectiveness of proposed state rules on reducing methane emissions and VOCs compared to what could be achieved with comprehensive rules. There is no claim against climate science, climate policy effectiveness, or any misinformation about climate change. Therefore, it does not fit any of the categories listed in the codebook.
+
+The appropriate category for this text is:
+
+```python
+[""0.0""]
+```",['0.0']
+283,Gore's graphs imply that increases in atmospheric carbon dioxide historically have preceded increases in global temperature. But a 2005 study in the journal Science reported that higher temperatures may actually have preceded increased carbon dioxide levels in the pastthe opposite of the global warming hypothesis.,ty_pham-swann@brown.edu,william_kattrup@brown.edu,2,2,0,"The provided text does not contain any climate skepticism claims as per the codebook. Therefore, the appropriate category to assign is '0.0'. 
+
+Output: ['0.0']",['0.0']
+337,"But from the looks of his whiny letter , hes of a completely different mindset. He thinks that while hes on the public payroll that he has the right to intimidate dissenters, and to keep everything he writes in his LLNL role a secret. Clearly he hates accountability to his bosses.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text does not contain any specific claims related to climate change skepticism or denial. It seems to focus on issues of accountability and transparency in a professional setting, without making any direct statements about climate change, its impacts, or related policies.
+
+Therefore, the appropriate category to assign based on the codebook is:
+
+```python
+[""0.0""]
+```",['0.0']
+131,11:30-12:30,ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text ""A) Let's think step by step"" does not contain any specific claims related to climate change skepticism or any other identifiable claims from the provided codebook. Therefore, it does not fit into any of the categories listed.
+
+Desired output format:
+```python
+[""0.0""]
+```",['0.0']
+97,"Before the DOE report came out, Dow, guided by its public relations team, had characterized itself as ""in the middle"" on this issue. All last year, the company had repeatedly declared itself a ""proponent of fair and free trade,"" stating that it ""opposes policies that arbitrarily limit reasonable experts of natural gas to free-trade agreement countries or that provide for unlimited global exports."" As George Blitz, vice president of energy and climate change and a corporate vice president, claimed as late as October, it just wanted a balanced public policy.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text does not contain any explicit climate skepticism claims from the codebook. It discusses a company's stance on trade policies related to natural gas exports, without making any direct statements about climate change or its impacts. Therefore, the appropriate category to assign is:
+
+```python
+[""0.0""]
+```",['0.0']
+249,"Emiquon is home to a wide variety of wetland plants including reeds, rushes, naiads and even American lotus. The restored prairie supports 100 species such as big bluestem, Indian grass, black-eyed Susan and prairie coreopsis. TNC has planted more than 300,000 bottomland and upland tress on the site.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text describes the biodiversity and restoration efforts at Emiquon, mentioning various plant species and tree planting activities by The Nature Conservancy (TNC). It does not contain any direct or indirect statements related to climate change skepticism or denial. Therefore, it does not fit any of the specific claims listed in the codebook that relate to climate skepticism.
+
+The appropriate category for this text is '0.0', indicating that it does not align with any of the skepticism claims listed.
+
+Output: ['0.0']",['0.0']
+328,"For their analysis, the researchers collected seafloor mud samples, now rock, from multiple localities in England and Italy. They then performed chemical extraction on the samples to analyze the sulfur isotope compositions in order to estimate the chemistry of the global ocean.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text describes a scientific process where researchers collected seafloor mud samples from England and Italy to analyze sulfur isotope compositions to estimate the chemistry of the global ocean. This text does not contain any direct or indirect claims related to climate skepticism or denial. It simply outlines a scientific method used for geological and chemical analysis.
+
+Therefore, based on the codebook provided, the appropriate category to assign to this text is:
+
+```python
+['0.0']
+```",['0.0']
+499,"Under the Data Quality Act, material which is considered ""influential scientific information""--in other words, is likely to influence public policy or private sector decisions--is also subject to the scrutiny of scientific validation. The National Assessment on Climate Change (2000) and EPA's Climate Action Report 2002 base their analyses of the potential impacts of climate change on two computer models that are incapable of providing reliable predictions. Efforts to validate these two models actually exposed them as less capable at predicting climate impacts than a table of random numbers. The law prohibits this.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,2,2,999,"The provided text describes a scientific process where researchers collected seafloor mud samples from England and Italy to analyze sulfur isotope compositions to estimate the chemistry of the global ocean. This text does not contain any direct or indirect claims related to climate skepticism or denial. It simply outlines a scientific method used for geological and chemical analysis.
+
+Therefore, based on the codebook provided, the appropriate category to assign to this text is:
+
+```python
+['0.0']
+```",[]
+665,"EU members states have spent about ?600 billion ($882bn) on renewable energy projects since 2005, according to Bloomberg New Energy Finance. Germany?s green energy transition alone may cost consumers up to ?1 trillion by 2030, the German government recently warned.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,1,1,0,"The provided text does not contain any direct skepticism about climate change or its impacts. Instead, it discusses the financial costs associated with renewable energy projects in the EU and Germany. Therefore, it does not fit any of the specific skepticism claims listed in the codebook.
+
+The appropriate category for this text is '0.0' as it does not match any of the claims about climate change skepticism.
+
+Output: ['0.0']",['0.0']
+655,Provide Food and Water,ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text ""Let's think step by step"" does not contain any specific claims related to climate skepticism or climate change denial as outlined in the codebook. Therefore, it does not fit any of the categories listed.
+
+Desired output format: 
+```python
+[""0.0""]
+```",['0.0']
+87,"It is impossible from Solomon et al.'s analysis to know what went on prior to 1980, so, for lack of any other guidance, I'll assume that no changes took place (or, that the net change was zero) from 1950 to 1980. I'll then back the 15% warming influence from stratospheric water vapor changes since 1980 out of the ""corrected"" data in Figure 2. The warming I am left with is shown in Figure 3.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,2,0,0,"The provided text does not contain any specific claim related to climate skepticism as outlined in the codebook. Therefore, the appropriate category to assign is '0.0'. 
+
+```python
+[""0.0""]
+```",['0.0']
+325,"Kevin D. Dayaratna and David W. Kreutzer, ""Unfounded FUND: Yet Another EPA Model Not Ready for the Big Game,"" Heritage Foundation Backgrounder No. 2897, April 29, 2014, http://www.heritage.org/research/reports/2014/04/unfounded-fund-yet-another-epa-model-not-ready-for-the-big-game. See also Kevin D. Dayaratna and David W. Kreutzer, ""Loaded DICE: An EPA Model Not Ready for the Big Game,"" Heritage Foundation Backgrounder No. 2860, November 21, 2013, http://www.heritage.org/research/reports/2013/11/loaded-dice-an-epa-model-not-ready-for-the-big-game.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,2,0,0,"The provided text does not contain any specific claims about climate change skepticism directly. It mentions reports criticizing EPA models, but without additional context or specific claims from the reports, it's not possible to categorize the skepticism accurately based on the provided codebook.
+
+Therefore, the appropriate category for this text is:
+```python
+[""0.0""]
+```",['0.0']
+501,Now the issue is front and center again because of Kennedy and the extended search by Florida Gov. Charlie Crist (R) to fill the seat vacated by Mel Martinez (R)a seat Crist himself is seeking in the November 2010 election.,ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text does not contain any direct or indirect references to climate change skepticism or related claims. It discusses political maneuvers related to a Senate seat, which is unrelated to the topics covered in the codebook.
+
+Therefore, the appropriate category to assign is:
+
+```python
+['0.0']
+```",['0.0']
+47,"Pelejero et al . report ""there is no notable trend toward lower ?? 11 B values"" over the 300-year period investigated. Instead, they say that ""the dominant feature of the coral ?? 11 B record is a clear interdecadal oscillation of pH, with ?? 11 B values ranging between 23 and 25 per mil (7.9 and 8.2 pH units),"" which ""is synchronous with the Interdecadal Pacific Oscillation."" Furthermore, they calculated changes in aragonite saturation state from the Flinders pH record that varied between ~3 and 4.5, which values encompass ""the lower and upper limits of aragonite saturation state within which corals can survive."" Despite this fact, they report that ""skeletal extension and calcification rates for the Flinders Reef coral fall within the normal range for Porites and are not correlated with aragonite saturation state or pH ."" What it means",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text discusses the findings of Pelejero et al. regarding coral ?? 11 B values, pH levels, and aragonite saturation states over a 300-year period. The text highlights that there is no notable trend toward lower ?? 11 B values and instead points out an interdecadal oscillation of pH levels that correlates with the Interdecadal Pacific Oscillation. Additionally, it mentions that coral skeletal extension and calcification rates are within normal ranges and not correlated with pH or aragonite saturation state.
+
+This text does not directly align with any of the specific climate skepticism claims listed in the codebook. It does not deny climate change, global warming, or their impacts explicitly. Instead, it discusses specific scientific findings related to coral health and environmental conditions over time.
+
+Therefore, the appropriate category to assign to this text is '0.0', indicating that none of the listed climate skepticism claims apply.
+
+```python
+return ['0.0']
+```",['0.0']
+406,"Even if McCarthy makes it, the agency will still be short on Senate-confirmed leaders for its air and general counsel offices, among others, which many agency-watchers say could hamper progress on new regulations.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text does not contain any direct or indirect references to climate change skepticism or denial. It discusses the potential impact of lacking Senate-confirmed leaders in certain agency offices on the progress of new regulations. There is no mention or implication related to the validity, effects, or policies of climate change.
+
+Therefore, the appropriate category to assign is:
+
+```python
+['0.0']
+```",['0.0']
+82,"Despite its oft-quoted ""likely mostly"" conclusion mentioned earlier, the NRC was also quite clear in expressing the extent of the uncertainty remaining in the science when it comes to assessing the influence of humans on the climate.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,2,2,0,"The provided text does not contain any specific claim from the codebook. Therefore, the appropriate category to assign is '0.0'. 
+
+Output: ['0.0']",['0.0']
+39,Keep up the awesome works guys I've included you guys to my blogroll.,ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text ""Keep up the awesome works guys I've included you guys to my blogroll."" does not contain any information or claims related to climate change or climate skepticism. Therefore, it does not fit any of the categories listed in the codebook.
+
+The appropriate category assignment for this text is '0.0'.
+
+```python
+[""0.0""]
+```",['0.0']
+378,"A short two weeks laterI wrotea post about record cold in the US in 2014, and find out that the US has shrunk down to 1/2 of 1 percent of the Earths Surface",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,2,2,"The provided text mentions a post about ""record cold in the US in 2014,"" which suggests a focus on a specific cold weather event. This could be used to imply that global warming is not occurring or is exaggerated, a common argument among climate skeptics who point to cold weather as evidence against global warming.
+
+Based on the codebook, the most relevant category for this claim is:
+- <claim id=""1.3"">1.3 - Weather is cold</claim id=""1.3"">
+
+This category directly addresses the use of cold weather events to argue about the state of global climate change. The text does not fit into other specific claims about ice ages, melting ice, or other unrelated skeptical claims.
+
+Therefore, the appropriate category for this text is:
+```python
+[""1.3""]
+```",['1.3']
+600,"All the while, the Obama administration is crippling Americas future economic growth with these regulations while our economic competitors forge ahead at making energy prices predictable, cheap and attractive for doing business.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,1,1,1,"The provided text does not directly fit into any specific claim category from the codebook as it does not explicitly mention climate change skepticism or denial. However, it does criticize climate policies by suggesting they are harming economic growth. This aligns with the claim:
+
+<claim id=""4.1"">4.1 - Climate policies are harmful</claim id=""4.1"">
+
+Therefore, the appropriate category for this text is:
+```python
+[""4.1""]
+```",['4.1']
+171,"It was a hot July afternoon 38 years ago, nearly 92 degrees, when Teamsters president and labor icon Jimmy Hoffa is said to have opened the rear door of a 1975 maroon Mercury in the parking lot of the Machus Red Fox restaurant, in Bloomfield Hills, Mich., and climbed in.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text does not contain any explicit or implicit claims related to climate change skepticism or misinformation. It merely describes a historical event involving Jimmy Hoffa and does not discuss or allude to climate change, its impacts, policies, or the science behind it.
+
+Therefore, the appropriate category to assign is:
+
+```python
+['0.0']
+```",['0.0']
+237,"Thanks, it is! Very reasonable (and conservative) estimates... unbelievable that these rules would be rolled back. Our nation needs better regulatory resiliency.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text does not contain any specific claims related to climate skepticism as outlined in the codebook. Instead, it appears to express concern about the rollback of regulations and emphasizes the need for better regulatory resiliency, which suggests a support for stronger climate policies rather than skepticism. Therefore, none of the categories in the codebook apply to this text.
+
+The appropriate category assignment for this text is:
+
+```python
+[""0.0""]
+```",['0.0']
+664,"Case in point: Mike Pence, our usually unobtrusive vice president who last week drew headlines for hiring a personal lawyer in wake of the Russia probe.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text does not contain any information or claims related to climate change or climate skepticism. Therefore, it does not fit any of the categories listed in the codebook.
+
+Output: ['0.0']",['0.0']
+238,"As you can imagine, I’ve been getting a lot of teasing from my NRDC colleagues about my enthusiasm over Jessica Alba. (Ha! They’re all just jealous!) But it is certainly true that I love Jessica Alba:",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text does not contain any claims related to climate change skepticism or denial. It appears to be a personal anecdote unrelated to the topics covered in the codebook.
+
+Therefore, the appropriate category to assign is:
+
+```python
+[""0.0""]
+```",['0.0']
+636,"As a part of President Obama's Climate Action Plan announced last June, these Hubs will be a clearinghouse of information and provide science-based knowledge and practical tools to agriculture stakeholders. These seven regional hubs, and three sub-hubs, will look at region-specific agriculture risks and ways to adapt, shift and mitigate the increasing effects of a climate change. They will help farmers, ranchers, and forest owners adapt to a new climate brought on by climate change.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text does not contain any climate skepticism. Instead, it discusses proactive measures being taken to address climate change impacts on agriculture. Therefore, it does not fit any of the skepticism categories listed in the codebook.
+
+```python
+[0.0]
+```",[0.0]
+642,"Bernie McCune holds degrees in both engineering and biology and has worked with both the National Oceanic and Atmospheric Agency and NASA's Goddard Space Flight Center. ""Hansen admitted there is still some question,"" McCune said. ""But, his presentation was mostly political and didn't prove that CO2 is the problem; it didn't show that humans had anything to do with it.""",ty_pham-swann@brown.edu,william_kattrup@brown.edu,2,2,2,"The paragraph provided contains skepticism about the role of CO2 in climate change and questions the human impact on climate change. Specifically, the statement ""it didn't prove that CO2 is the problem; it didn't show that humans had anything to do with it"" suggests skepticism about the anthropogenic causes of climate change.
+
+Based on the codebook, the most relevant claim category for this statement is:
+- **2.1 - GHGs are not causing global warming - it’s natural cycles**
+
+This category is appropriate because the statement directly challenges the idea that greenhouse gases (specifically CO2) are responsible for global warming, implying that other natural cycles might be the cause instead.
+
+Therefore, the output should be:
+```python
+[""2.1""]
+```",['2.1']
+130,"As reported by the Daily Caller News Foundation, Smith said: ""It is this committee's oversight role to ensure that federal science agencies are transparent and accountable to the taxpayers who fund their research."" He added: ""Americans are tired of research conducted behind closed doors where they only see cherry-picked conclusions, not the facts.""",ty_pham-swann@brown.edu,william_kattrup@brown.edu,2,0,2,"The provided text does not directly make any specific claims about climate change itself, such as denying the effects or causes of climate change. Instead, it focuses on the transparency and accountability of federal science agencies in their research processes. The speaker expresses concern about research being conducted ""behind closed doors"" and the public only seeing ""cherry-picked conclusions.""
+
+Given the context and content of the statement, it aligns with skepticism about the reliability and transparency of scientific research rather than directly disputing climate science facts or impacts. Therefore, the most fitting category from the codebook is:
+
+- **5.1 Science is unreliable** -- This category includes claims that data or proxies are unreliable, which seems to resonate with the concern about ""cherry-picked conclusions"" and lack of transparency.
+
+Thus, the appropriate category for this text is:
+```python
+[""5.1""]
+```",['5.1']
+214,"Via Tom Nelson , this guy is certainly a fine example of enlightened scientific discourse:",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text does not contain any specific claims related to climate change skepticism or denial. It merely introduces a statement about someone being a ""fine example of enlightened scientific discourse"" without providing any context or details about their views on climate change. Therefore, it does not fit any of the specific claims listed in the codebook.
+
+Output: `['0.0']`",['0.0']
+290,"“I have deep roots in the state,” she said. “Our house was right on the water and I was always off exploring the nearby salt marshes and sea-grass beds.”",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text does not contain any explicit or implicit claims related to climate skepticism or climate change denial. It simply describes a personal connection to a location near the water and natural environments. Therefore, it does not fit any of the categories listed in the codebook.
+
+The appropriate category assignment for this text is:
+
+```python
+[""0.0""]
+```",['0.0']
+262,"We are also told that only 5% of the original sample responses were climate scientists , so if we pragmatically apply those proportions we end up with just 141 from the US, 9 from Canada and just 6 from 21 countries around the world, hardly a global consensus.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,2,2,2,"The provided text discusses the representation of climate scientists in a sample and questions the global consensus on climate change based on the low number of climate scientists from various countries. This skepticism about the consensus on climate change aligns with the claim:
+
+5.1 - Science is unreliable --No consensus; --Data/proxies are unreliable; --Temperature is unreliable; or --Models are unreliable
+
+Therefore, the appropriate category for this text is:
+
+```python
+[""5.1""]
+```",['5.1']
+545,That will slow down progress at a time when there isn’t a moment to lose.,ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text, ""That will slow down progress at a time when there isn’t a moment to lose,"" does not explicitly align with any of the specific climate skepticism claims listed in the codebook. It seems to express urgency rather than skepticism. Therefore, it does not fit any of the categories provided for climate skepticism.
+
+Output: ['0.0']",['0.0']
+275,"The highest recent rate of warming based on its linear trend occurred during the 157-month period that ended about 2004, but warming trends have dropped drastically since then. There was a similar drop in the 1940s, and as youll recall, global surface temperatures remained relatively flat from the mid-1940s to the mid-1970s. Also note that the early-1970s was the last time there had been a 157-month period without global warmingbefore recently.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,2,2,2,"The provided text discusses periods where global warming trends have either slowed down or remained flat, specifically mentioning a recent 157-month period without significant global warming and comparing it to a similar trend from the mid-1940s to the mid-1970s. This type of argument is often used to suggest that global warming is not a consistent or ongoing issue, which aligns with the claim:
+
+1.4 - Hiatus in warming
+
+Therefore, the appropriate category for this text is:
+```python
+[""1.4""]
+```",['1.4']
+440,IPCC Third Assessment Report Climate Change 2001 Complete online versions | GRID-Arendal Publications Other,ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text does not contain any specific claims or statements related to climate skepticism or climate change denial. It merely mentions the title of a report and a publication source, without making any assertions about climate science or policies.
+
+Therefore, the appropriate category to assign is:
+
+```python
+[""0.0""]
+```",['0.0']
+669,"The simple reality is that currency does and always will rule all avenues of life. Has anyone checked on how much is the cost to die; most of us who live paycheck to paycheck could not afford to die without fear of putting our family on the streets. The grim reality is that the insurance companies, the real estate investors, construction companies and top officials stand to lose money if these problems were solved. The best I can say is make sure that you take care of your family the best you know how, and always be prepared for the worst.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text does not directly address or allude to any specific climate change skepticism claims listed in the codebook. It discusses economic challenges and the influence of various industries on personal financial situations, without making any direct or indirect statements about climate change, its impacts, policies, or the science behind it.
+
+Therefore, the appropriate category to assign is:
+
+```python
+['0.0']
+```",['0.0']
+28,"As for combined Arctic and Antarctic ice, there is always a natural balancing act going between the two. There has been a lot of recent media attention directed to overall melting conditions in the northern ice cap region which is attributed to global warming. The cause is that the Atlantic Ocean has been in its multi-decadal warming phase. Meanwhile, the southern ice cap has increased to record levels.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,2,2,2,"The provided text discusses the balancing of ice conditions between the Arctic and Antarctic regions, attributing the melting in the Arctic to a natural warming phase of the Atlantic Ocean and noting an increase in the ice levels in the Antarctic. This could suggest that the changes are part of natural cycles rather than primarily driven by human-induced climate change.
+
+Based on the codebook, the most relevant claim category for this text is:
+
+- **2.1 - GHGs are not causing global warming - it’s natural cycles**
+
+This claim is supported by the text's implication that the changes in ice levels are due to natural oceanic cycles rather than greenhouse gas emissions.
+
+Therefore, the output should be:
+```python
+[""2.1""]
+```",['2.1']
+391,"""You're asking us to impose billions of dollars of cost on this economy and you won't answer the simple question of whether (temperature around the world is increasing faster than predicted) is accurate or not?"" Sessions responded.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,2,1,1,"The provided text involves a statement questioning the accuracy of claims about the rate of global temperature increase and criticizes the economic costs of climate policies. This skepticism about the effectiveness and economic impact of climate policies aligns with the claim:
+
+4.1 - Climate policies are harmful
+
+Thus, the appropriate category for this text is:
+```python
+[""4.1""]
+```",['4.1']
+496,realities and the charge popular among the president's political opponents that he views America as a declining power.,ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text does not contain any specific claims related to climate change skepticism or denial. It appears to be a general statement about political perceptions and does not align with any of the categories listed in the codebook.
+
+Therefore, the appropriate category to assign is:
+
+```python
+[""0.0""]
+```",['0.0']
+650,TIME SERIES TROPICAL AND EXTRATROPICAL SEA SURFACE TEMPERATURE,ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text ""TIME SERIES TROPICAL AND EXTRATROPICAL SEA SURFACE TEMPERATURE"" does not contain any explicit or implicit claims related to climate skepticism as outlined in the codebook. It appears to be a neutral statement possibly referring to a dataset or study topic without making any skeptical assertions about climate change or related phenomena.
+
+Therefore, the appropriate category to assign is:
+
+```python
+['0.0']
+```",['0.0']
+310,"NRDC, along with Canadian partner the Pembina Institute, has expressed its concern to the Smithsonian that the exhibit will not present a complete picture of the devastating environmental consequences of mining and drilling Alberta's boreal forests and wetlands for the underlying tar sands oil. The exhibit is being sponsored by the Alberta provincial government and many of Canada's biggest energy companies, whose champions also are in Washington this week to promote U.S. investment in Canadian tar sands oil development.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text does not contain any explicit or implicit climate skepticism. Instead, it highlights concerns about the environmental consequences of tar sands oil development. The text criticizes the potential incomplete presentation of environmental impacts in an exhibit sponsored by entities with vested interests in tar sands oil development. Therefore, it does not fit any of the skepticism categories listed in the codebook.
+
+The appropriate category for this text is '0.0', indicating that none of the skepticism categories apply.
+
+```python
+return ['0.0']
+```",['0.0']
+471,"The Audi ad tells preening, greener-than-thou progressives 'here is the car for you.' At the same time, it lampoons the authoritarianism of green busybodies, allowing the rest of us to admire the car's mpg rating without feeling we have to identify with Al Gore or the Sierra Club.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text does not directly make any claims about climate change itself, such as denying its existence or effects. Instead, it critiques the perceived authoritarianism and moral superiority of some environmental advocates, which could indirectly suggest skepticism about the urgency or nature of climate action. However, it does not fit neatly into any of the specific claims listed in the codebook about the science or impacts of climate change.
+
+Therefore, the appropriate category for this text is '0.0', as it does not directly align with any specific climate skepticism claims listed in the codebook.
+
+```python
+[""0.0""]
+```",['0.0']
+343,LIMITATION OF LIABILITY,ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text ""Let's think step by step"" does not contain any specific claims related to climate change skepticism as outlined in the codebook. Therefore, it does not fit any of the categories listed.
+
+Output: ['0.0']",['0.0']
+546,"Now, as I'm sure people will argue, not everyone can do this. If predictions of strong sea-level rise come to pass, low-lying areas, many of them in poor countries, will be inundated, potentially leading to mass exodus. The same is true if desert areas become sharply dryer.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text does not contain any explicit climate skepticism or denial claims as outlined in the codebook. It acknowledges potential severe impacts of climate change such as sea-level rise and desertification, which could lead to mass exodus, especially affecting low-lying and poor regions. Therefore, it does not fit any of the skepticism categories listed in the codebook.
+
+The appropriate category for this text is:
+```python
+['0.0']
+```",['0.0']
+5,"We’re doing this by working at the grassroots, helping communities on projects that range from building biogas digesters (so families can have clean, efficient fuel for cooking and light), to teaching farmers how to grow their food using less water and fertilizer, to developing local sources of solar power. The potential for this kind of work to mitigate climate change, while supporting development and food security, is enormous.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text does not contain any climate skepticism. Instead, it discusses positive actions being taken at the grassroots level to mitigate climate change and support sustainable development. Therefore, it does not fit any of the skepticism categories listed in the codebook.
+
+Desired output format:
+```python
+[""0.0""]
+```",['0.0']
+117,"As much of the northern hemisphere last week froze under the snows of the fourth unusually cold winter in a row, our ministers, led by David Cameron and Chris Huhne, the Climate Change Secretary, laid out a blueprint that promises to inflict on Britain a social and economic catastrophe unique in the world. They chose this moment to announce what Mr Huhne called ?a seismic shift? in Britain?s energy policy, the purpose of which, according to Mr Cameron, is to replace our ?clapped-out? electricity supplies by making Britain ?the greenest economy in the world?.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,2,1,2,"The provided text mentions unusually cold winters in the northern hemisphere and criticizes the timing of announcing a new energy policy aimed at making Britain the greenest economy. The text implies skepticism about the need for such policies by highlighting the cold weather, which could be interpreted as questioning the existence or effects of global warming.
+
+Based on the codebook, the relevant claims from the text are:
+- **1.3 - Weather is cold**: The text mentions ""the fourth unusually cold winter in a row.""
+- **4.1 - Climate policies are harmful**: The text describes the new energy policy as potentially causing ""a social and economic catastrophe.""
+
+Therefore, the appropriate categories for this text are:
+- 1.3 (Weather is cold)
+- 4.1 (Climate policies are harmful)
+
+```python
+return [""1.3"", ""4.1""]
+```","['1.3', '4.1']"
+484,"Similar to the New York-Philadelphia World Series, it was a night filled with cheering, catcalls and controversy. But unlike the recently concluded baseball contest, residents of both cities could lose if their watersheds are not protected from the multiple threats posed by industrial gas drilling in the Marcellus Shale.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text does not contain any explicit or implicit climate skepticism. It discusses the potential environmental risks associated with industrial gas drilling in the Marcellus Shale, particularly concerning the protection of watersheds in New York and Philadelphia. There is no mention or allusion to any of the skepticism claims listed in the codebook.
+
+Therefore, the appropriate category to assign is:
+
+```python
+['0.0']
+```",['0.0']
+575,"In Praise of CO2: ""Earth is the Greenest its been in Decades, Perhaps in Centuries' Written by Marc Morano",ty_pham-swann@brown.edu,william_kattrup@brown.edu,2,2,2,"The provided text, ""In Praise of CO2: 'Earth is the Greenest its been in Decades, Perhaps in Centuries' Written by Marc Morano,"" suggests a positive view of CO2, implying that its increase might be beneficial as it correlates with a greener Earth. This perspective can be categorized under the claim that climate impacts are not bad, specifically focusing on the positive impacts of CO2 on plant life and possibly dismissing broader negative climate impacts.
+
+Based on the codebook, the most fitting category for this claim is:
+- **3.3** Climate impacts are not bad
+
+Thus, the output should be:
+```python
+[""3.3""]
+```",['3.3']
+221,"As a result, an energy-saving light bulb that complies with federal standards is now available for every socket in America.",ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text does not contain any explicit or implicit climate skepticism. It simply states that an energy-saving light bulb that meets federal standards is available for every socket in America, which is a positive statement about energy efficiency and does not challenge or undermine climate science or policies.
+
+Therefore, the appropriate category to assign is '0.0' as none of the skepticism claims in the codebook apply to this statement.
+
+```python
+[""0.0""]
+```",['0.0']
+255,Sited at a radar station with waste heat exhaust systems clearly visible,ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text ""Sited at a radar station with waste heat exhaust systems clearly visible"" does not directly make any claims related to climate change skepticism or denial. It merely describes a location and an observation of waste heat systems, without making any assertions about climate change, its impacts, or related policies.
+
+Therefore, based on the codebook provided and the content of the text, the appropriate category to assign is:
+
+```python
+[""0.0""]
+```",['0.0']
+50,NRO's Manzi Mischaracterizes Global Warming Debate,ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text ""NRO's Manzi Mischaracterizes Global Warming Debate"" does not contain specific details or claims about climate change skepticism. It merely suggests that someone named Manzi at NRO (National Review Online) may have misrepresented aspects of the global warming debate. Without further context or specific claims, it is not possible to accurately categorize this statement under any specific claim in the provided codebook.
+
+Therefore, the appropriate category for this text is:
+
+```python
+[""0.0""]
+```",['0.0']
+640,"Such failed projections should come as no great surprise. As the IPCC's own 2001 Assessment Report concludes: ""The climate system is a coupled non-linear chaotic system, and therefore the long-term prediction of future climate states is not possible.""",ty_pham-swann@brown.edu,william_kattrup@brown.edu,2,2,2,"The provided text states:
+
+""Such failed projections should come as no great surprise. As the IPCC's own 2001 Assessment Report concludes: 'The climate system is a coupled non-linear chaotic system, and therefore the long-term prediction of future climate states is not possible.'""
+
+This text suggests skepticism about the reliability of climate models due to the inherent complexity and unpredictability of the climate system. It implies that because the climate system is chaotic and non-linear, long-term predictions made by climate models are unreliable.
+
+Referring to the codebook, the most fitting category for this claim is:
+- **5.1 Science is unreliable -- Models are unreliable**
+
+This category directly addresses the skepticism towards the reliability of climate models, which is the central theme of the provided text.
+
+Therefore, the appropriate category to assign is:
+```python
+[""5.1""]
+```",['5.1']
+690,Ethics Helpline,ty_pham-swann@brown.edu,william_kattrup@brown.edu,0,0,0,"The provided text ""A) Let's think step by step"" does not contain any specific claims related to climate change skepticism as outlined in the codebook. Therefore, it does not fit any of the categories listed.
+
+Output: ['0.0']",['0.0']
