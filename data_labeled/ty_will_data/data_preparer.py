@@ -75,6 +75,8 @@ print("Intercoder reliability:", data_preparer.intercoder_reliability(grouped_df
 
 #Output
 grouped_df.to_csv("data_labeled/ty_will_data/denial_delay_labels_formatted.csv",index=False)    
+grouped_df.sample(150).to_csv("data_labeled/ty_will_data/denial_delay_labels_formatted_150.csv",index=False)    
+
         
 
 
